@@ -10,6 +10,8 @@
  O Finance Dashboard é uma aplicação web simples desenvolvida em Python utilizando as bibliotecas Streamlit, yfinance e pandas. Esta aplicação permite aos usuários visualizar os retornos relativos de uma seleção de ativos financeiros ao longo do tempo.
 </br>
 
+<h4 align="left"><a href="https://stock-performance-2024.streamlit.app/">Live demo>></a></h4>
+
 ## Tecnologias usadas
 . [Python](https://docs.python.org/3/)</br></br>
 . [Streamlit](https://docs.streamlit.io/)</br></br>
