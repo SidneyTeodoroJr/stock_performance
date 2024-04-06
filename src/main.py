@@ -3,6 +3,15 @@ import streamlit as st
 import yfinance as yf
 import pandas as pd
 
+# APP page settings
+st.set_page_config(
+    menu_items={
+    'Get Help': 'https://github.com/SidneyTeodoroJr',
+    'Report a bug': "https://github.com/SidneyTeodoroJr/stock_performance",
+    'About': "Contributions are welcome!"
+    }
+)
+
 st.title("FINANCE DASHBOARD")
  
 tickers = ("TSLA", "AAPL", "MSFT", "BTC-USD", "ETH-USD", "NVDA") # Lista de tickers
