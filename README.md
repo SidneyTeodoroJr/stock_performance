@@ -28,7 +28,7 @@
 5. Instale as dependências necessárias:
    ```shell
    pip install requirements.txt
-6. Entre na pasta `app`:
+6. Entre na pasta `src`:
    ```shell
    cd src
 7. Execute o script Python:
