@@ -5,6 +5,8 @@ import pandas as pd
 
 # APP page settings
 st.set_page_config(
+    page_title="Stock Performance", # Título
+    layout="centered",  # Layout da página
     menu_items={
     'Get Help': 'https://github.com/SidneyTeodoroJr',
     'Report a bug': "https://github.com/SidneyTeodoroJr/stock_performance",
